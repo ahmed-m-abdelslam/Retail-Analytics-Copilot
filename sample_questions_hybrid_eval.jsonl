@@ -1,0 +1,1 @@
+{"id":"sql_top3_products_by_revenue_alltime","question":"Top 3 products by total revenue all-time. Revenue uses Order Details: SUM(UnitPrice*Quantity*(1-Discount)). Return list[{product:str, revenue:float}].","format_hint":"list[{product:str, revenue:float}]"}
